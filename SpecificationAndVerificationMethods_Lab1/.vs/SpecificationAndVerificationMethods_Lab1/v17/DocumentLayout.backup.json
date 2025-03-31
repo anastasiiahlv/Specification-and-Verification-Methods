@@ -3,26 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\xunit.runner.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\thomasalgorithmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\matrixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\vectortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C530F72-C694-4FB5-B6CA-0D9AF023BF5A}|SpecificationAndVerificationMethods_Lab1.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C530F72-C694-4FB5-B6CA-0D9AF023BF5A}|SpecificationAndVerificationMethods_Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\jacobimethodtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C530F72-C694-4FB5-B6CA-0D9AF023BF5A}|SpecificationAndVerificationMethods_Lab1.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C530F72-C694-4FB5-B6CA-0D9AF023BF5A}|SpecificationAndVerificationMethods_Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\thomasalgorithmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\matrixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C530F72-C694-4FB5-B6CA-0D9AF023BF5A}|SpecificationAndVerificationMethods_Lab1.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C530F72-C694-4FB5-B6CA-0D9AF023BF5A}|SpecificationAndVerificationMethods_Lab1.csproj|solutionrelative:matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A4398-0830-4AD3-9783-76D346BEEF8E}|..\\SpecificationAndVerificationMethods_Lab1_Test\\SpecificationAndVerificationMethods_Lab1_Test.csproj|c:\\users\\user\\desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\specificationandverificationmethods_lab1_test\\vectortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,92 +42,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "xunit.runner.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\xunit.runner.json",
-              "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\xunit.runner.json",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\xunit.runner.json",
-              "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\xunit.runner.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-31T17:41:24.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ThomasAlgorithmTests.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\ThomasAlgorithmTests.cs",
-              "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\ThomasAlgorithmTests.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\ThomasAlgorithmTests.cs",
-              "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\ThomasAlgorithmTests.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:37:34.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MatrixTests.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\MatrixTests.cs",
-              "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\MatrixTests.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\MatrixTests.cs",
-              "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\MatrixTests.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:37:06.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProgramTests.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\ProgramTests.cs",
               "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\ProgramTests.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\ProgramTests.cs",
               "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\ProgramTests.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:30:20.515Z",
+              "WhenOpened": "2025-03-31T20:26:44.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VectorTests.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\VectorTests.cs",
-              "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\VectorTests.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\VectorTests.cs",
-              "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\VectorTests.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T10:23:22.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "JacobiMethodTests.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\JacobiMethodTests.cs",
               "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\JacobiMethodTests.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\JacobiMethodTests.cs",
               "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\JacobiMethodTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T10:23:08.735Z",
+              "WhenOpened": "2025-03-31T20:17:10.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "ThomasAlgorithmTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\ThomasAlgorithmTests.cs",
+              "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\ThomasAlgorithmTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\ThomasAlgorithmTests.cs",
+              "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\ThomasAlgorithmTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:05:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwB0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAiwDIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:28:12.886Z",
+              "WhenOpened": "2025-03-31T19:53:59.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1\\Matrix.cs",
+              "RelativeDocumentMoniker": "Matrix.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1\\Matrix.cs",
+              "RelativeToolTip": "Matrix.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:53:13.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\MatrixTests.cs",
+              "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\MatrixTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\MatrixTests.cs",
+              "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\MatrixTests.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:33:57.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VectorTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\VectorTests.cs",
+              "RelativeDocumentMoniker": "..\\SpecificationAndVerificationMethods_Lab1_Test\\VectorTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\univ\\\u043C\u0435\u0442\u043E\u0434\u0438 \u0441\u043F\u0435\u0446\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043A\u0430\u0446\u0456\u0457 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\SpecificationAndVerificationMethods_Lab1_Test\\VectorTests.cs",
+              "RelativeToolTip": "..\\SpecificationAndVerificationMethods_Lab1_Test\\VectorTests.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwFgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:03:59.715Z",
               "EditorCaption": ""
             }
           ]

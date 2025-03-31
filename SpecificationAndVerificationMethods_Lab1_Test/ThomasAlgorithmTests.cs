@@ -14,8 +14,8 @@ namespace SpecificationAndVerificationMethods_Lab1_Test
         public void Method_ShouldSetCorrectDeterminant()
         {
             // Arrange
-            int n = 3;
-            double[] b = { 6, 9, 12 };
+            int n = 8;
+            double[] b = { 1, 2, 3, 4, 5, 6, 7, 8 };
 
             // Act
             ThomasAlgorithm.Method(n, b);

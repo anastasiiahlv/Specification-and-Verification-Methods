@@ -26,8 +26,8 @@ namespace SpecificationAndVerificationMethods_Lab1_Test
         [Fact]
         public void VectorNorm_CorrectlyCalculatesMaximumNorm()
         {
-            Vector vector = new Vector(new double[] { -2, 3, -1 });
-            double expectedNorm = 3;
+            Vector vector = new Vector(new double[] { -7, 3, -1 });
+            double expectedNorm = 7;
 
             double result = Vector.VectorNorm(vector);
 

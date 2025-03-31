@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecificationAndVerificationMethods_Lab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88b135824ec3f41771d32f409bf70cd3d9cf99a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91e4cf6698c2140d390693d9512fbfdbe5f01ada")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecificationAndVerificationMethods_Lab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecificationAndVerificationMethods_Lab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

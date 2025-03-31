@@ -45,15 +45,11 @@ namespace SpecificationAndVerificationMethods_Lab1_Test
         [Fact]
         public void BuildMatrix_ShouldHaveCorrectDiagonalValues()
         {
-            // Act
-            double[,] matrix = Matrix.BuildMatrix(3);
-
-            // Assert
-            Assert.Equal(3, matrix[0, 0]); // Головна діагональ
-            Assert.Equal(2, matrix[0, 1]); // Верхня діагональ
-            Assert.Equal(1, matrix[1, 0]); // Нижня діагональ
-            Assert.Equal(3, matrix[2, 2]); // Головна діагональ
-            Assert.Equal(0, matrix[0, 2]); // Решта елементів
+            // Act & Assert
+            Assert.Equal(3, _matrix3x3[0, 0]); // Головна діагональ
+            Assert.Equal(2, _matrix3x3[0, 1]); // Верхня діагональ
+            Assert.Equal(1, _matrix3x3[1, 0]); // Нижня діагональ
+            Assert.Equal(0, _matrix3x3[0, 2]); // Решта елементів
         }
 
         [Fact]

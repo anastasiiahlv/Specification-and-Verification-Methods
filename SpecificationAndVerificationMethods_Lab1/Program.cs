@@ -34,10 +34,20 @@ public class Program
 
         while (m != 0)
         {
+            int maxAttempts = 5;
+            int attempts = 0;
+
             Console.Write("Enter a number n for the matrix dimension nxn: ");
-            while (!int.TryParse(Console.ReadLine(), out n))
+            while ((!int.TryParse(Console.ReadLine(), out n) || n <= 0) && attempts < maxAttempts)
             {
-                Console.WriteLine("Invalid input. Please enter a valid number: ");
+                Console.WriteLine("Error: n must be a positive integer.");
+                attempts++;
+                if (attempts == maxAttempts)
+                {
+                    Console.WriteLine("Too many invalid attempts. Exiting.");
+                    return;
+                }
+                Console.Write("Enter a number n for the matrix dimension nxn: ");
             }
 
             Console.WriteLine("Choose the method. Enter 1 or 2.");

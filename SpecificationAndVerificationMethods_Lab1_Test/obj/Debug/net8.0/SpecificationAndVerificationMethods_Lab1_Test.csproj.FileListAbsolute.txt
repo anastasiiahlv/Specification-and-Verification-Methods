@@ -103,3 +103,4 @@ C:\Users\USER\Desktop\univ\методи специфікації та вериф
 C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1_Test\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1_Test.pdb
 C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1_Test\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1_Test.genruntimeconfig.cache
 C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1_Test\obj\Debug\net8.0\ref\SpecificationAndVerificationMethods_Lab1_Test.dll
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1_Test\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1_Test.sourcelink.json
