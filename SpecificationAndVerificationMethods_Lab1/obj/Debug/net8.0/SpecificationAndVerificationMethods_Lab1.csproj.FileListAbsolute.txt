@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\bin\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.exe
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\bin\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.deps.json
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\bin\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.runtimeconfig.json
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\bin\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.dll
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\bin\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.pdb
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.AssemblyInfo.cs
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.sourcelink.json
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.dll
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\refint\SpecificationAndVerificationMethods_Lab1.dll
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.pdb
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\SpecificationAndVerificationMethods_Lab1.genruntimeconfig.cache
+C:\Users\USER\Desktop\univ\методи специфікації та верифікації програм\SpecificationAndVerificationMethods_Lab1\obj\Debug\net8.0\ref\SpecificationAndVerificationMethods_Lab1.dll

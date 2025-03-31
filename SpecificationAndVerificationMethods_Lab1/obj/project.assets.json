@@ -1,0 +1,281 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "coverlet.collector/6.0.4": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/coverlet.collector.targets": {}
+        }
+      },
+      "xunit.runner.console/2.9.3": {
+        "type": "package",
+        "build": {
+          "build/xunit.runner.console.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coverlet.collector/6.0.4": {
+      "sha512": "lkhqpF8Pu2Y7IiN7OntbsTtdbpR1syMsm2F3IgX6ootA4ffRqWL5jF7XipHuZQTdVuWG/gVAAcf8mjk8Tz0xPg==",
+      "type": "package",
+      "path": "coverlet.collector/6.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "VSTestIntegration.md",
+        "build/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "build/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "build/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
+        "build/netstandard2.0/Microsoft.Extensions.DependencyModel.dll",
+        "build/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "build/netstandard2.0/Microsoft.TestPlatform.CoreUtilities.dll",
+        "build/netstandard2.0/Microsoft.TestPlatform.PlatformAbstractions.dll",
+        "build/netstandard2.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll",
+        "build/netstandard2.0/Mono.Cecil.Mdb.dll",
+        "build/netstandard2.0/Mono.Cecil.Pdb.dll",
+        "build/netstandard2.0/Mono.Cecil.Rocks.dll",
+        "build/netstandard2.0/Mono.Cecil.dll",
+        "build/netstandard2.0/Newtonsoft.Json.dll",
+        "build/netstandard2.0/NuGet.Frameworks.dll",
+        "build/netstandard2.0/NuGet.Versioning.dll",
+        "build/netstandard2.0/System.Buffers.dll",
+        "build/netstandard2.0/System.Collections.Immutable.dll",
+        "build/netstandard2.0/System.Memory.dll",
+        "build/netstandard2.0/System.Numerics.Vectors.dll",
+        "build/netstandard2.0/System.Reflection.Metadata.dll",
+        "build/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "build/netstandard2.0/System.Text.Encodings.Web.dll",
+        "build/netstandard2.0/System.Text.Json.dll",
+        "build/netstandard2.0/System.Threading.Tasks.Extensions.dll",
+        "build/netstandard2.0/coverlet.collector.deps.json",
+        "build/netstandard2.0/coverlet.collector.dll",
+        "build/netstandard2.0/coverlet.collector.pdb",
+        "build/netstandard2.0/coverlet.collector.targets",
+        "build/netstandard2.0/coverlet.core.dll",
+        "build/netstandard2.0/coverlet.core.pdb",
+        "build/netstandard2.0/coverlet.core.xml",
+        "build/netstandard2.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "build/netstandard2.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll",
+        "build/netstandard2.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll",
+        "coverlet-icon.png",
+        "coverlet.collector.6.0.4.nupkg.sha512",
+        "coverlet.collector.nuspec"
+      ]
+    },
+    "xunit.runner.console/2.9.3": {
+      "sha512": "und5dhnsamWN02uVAJeORz4Ny2FK5pxVuchFa416pI7y8rjZxfuiSrvZRUFHNVIVtT7cibOm66bsZHLw5jSSkw==",
+      "type": "package",
+      "path": "xunit.runner.console/2.9.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "_content/README.md",
+        "_content/logo-128-transparent.png",
+        "build/xunit.runner.console.props",
+        "tools/net452/xunit.abstractions.dll",
+        "tools/net452/xunit.console.exe",
+        "tools/net452/xunit.console.exe.config",
+        "tools/net452/xunit.console.x86.exe",
+        "tools/net452/xunit.console.x86.exe.config",
+        "tools/net452/xunit.runner.reporters.net452.dll",
+        "tools/net452/xunit.runner.utility.net452.dll",
+        "tools/net46/xunit.abstractions.dll",
+        "tools/net46/xunit.console.exe",
+        "tools/net46/xunit.console.exe.config",
+        "tools/net46/xunit.console.x86.exe",
+        "tools/net46/xunit.console.x86.exe.config",
+        "tools/net46/xunit.runner.reporters.net452.dll",
+        "tools/net46/xunit.runner.utility.net452.dll",
+        "tools/net461/xunit.abstractions.dll",
+        "tools/net461/xunit.console.exe",
+        "tools/net461/xunit.console.exe.config",
+        "tools/net461/xunit.console.x86.exe",
+        "tools/net461/xunit.console.x86.exe.config",
+        "tools/net461/xunit.runner.reporters.net452.dll",
+        "tools/net461/xunit.runner.utility.net452.dll",
+        "tools/net462/xunit.abstractions.dll",
+        "tools/net462/xunit.console.exe",
+        "tools/net462/xunit.console.exe.config",
+        "tools/net462/xunit.console.x86.exe",
+        "tools/net462/xunit.console.x86.exe.config",
+        "tools/net462/xunit.runner.reporters.net452.dll",
+        "tools/net462/xunit.runner.utility.net452.dll",
+        "tools/net47/xunit.abstractions.dll",
+        "tools/net47/xunit.console.exe",
+        "tools/net47/xunit.console.exe.config",
+        "tools/net47/xunit.console.x86.exe",
+        "tools/net47/xunit.console.x86.exe.config",
+        "tools/net47/xunit.runner.reporters.net452.dll",
+        "tools/net47/xunit.runner.utility.net452.dll",
+        "tools/net471/xunit.abstractions.dll",
+        "tools/net471/xunit.console.exe",
+        "tools/net471/xunit.console.exe.config",
+        "tools/net471/xunit.console.x86.exe",
+        "tools/net471/xunit.console.x86.exe.config",
+        "tools/net471/xunit.runner.reporters.net452.dll",
+        "tools/net471/xunit.runner.utility.net452.dll",
+        "tools/net472/xunit.abstractions.dll",
+        "tools/net472/xunit.console.exe",
+        "tools/net472/xunit.console.exe.config",
+        "tools/net472/xunit.console.x86.exe",
+        "tools/net472/xunit.console.x86.exe.config",
+        "tools/net472/xunit.runner.reporters.net452.dll",
+        "tools/net472/xunit.runner.utility.net452.dll",
+        "tools/net48/xunit.abstractions.dll",
+        "tools/net48/xunit.console.exe",
+        "tools/net48/xunit.console.exe.config",
+        "tools/net48/xunit.console.x86.exe",
+        "tools/net48/xunit.console.x86.exe.config",
+        "tools/net48/xunit.runner.reporters.net452.dll",
+        "tools/net48/xunit.runner.utility.net452.dll",
+        "tools/net481/xunit.abstractions.dll",
+        "tools/net481/xunit.console.exe",
+        "tools/net481/xunit.console.exe.config",
+        "tools/net481/xunit.console.x86.exe",
+        "tools/net481/xunit.console.x86.exe.config",
+        "tools/net481/xunit.runner.reporters.net452.dll",
+        "tools/net481/xunit.runner.utility.net452.dll",
+        "tools/net6.0/xunit.abstractions.dll",
+        "tools/net6.0/xunit.console.deps.json",
+        "tools/net6.0/xunit.console.dll",
+        "tools/net6.0/xunit.console.dll.config",
+        "tools/net6.0/xunit.console.exe",
+        "tools/net6.0/xunit.console.runtimeconfig.json",
+        "tools/net6.0/xunit.runner.reporters.netcoreapp10.dll",
+        "tools/net6.0/xunit.runner.utility.netcoreapp10.dll",
+        "tools/netcoreapp1.0/xunit.abstractions.dll",
+        "tools/netcoreapp1.0/xunit.console.deps.json",
+        "tools/netcoreapp1.0/xunit.console.dll",
+        "tools/netcoreapp1.0/xunit.console.dll.config",
+        "tools/netcoreapp1.0/xunit.console.runtimeconfig.json",
+        "tools/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll",
+        "tools/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll",
+        "tools/netcoreapp2.0/xunit.abstractions.dll",
+        "tools/netcoreapp2.0/xunit.console.deps.json",
+        "tools/netcoreapp2.0/xunit.console.dll",
+        "tools/netcoreapp2.0/xunit.console.dll.config",
+        "tools/netcoreapp2.0/xunit.console.runtimeconfig.json",
+        "tools/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll",
+        "tools/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll",
+        "xunit.runner.console.2.9.3.nupkg.sha512",
+        "xunit.runner.console.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "coverlet.collector >= 6.0.4",
+      "xunit.runner.console >= 2.9.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\univ\\методи специфікації та верифікації програм\\SpecificationAndVerificationMethods_Lab1\\SpecificationAndVerificationMethods_Lab1.csproj",
+      "projectName": "SpecificationAndVerificationMethods_Lab1",
+      "projectPath": "C:\\Users\\USER\\Desktop\\univ\\методи специфікації та верифікації програм\\SpecificationAndVerificationMethods_Lab1\\SpecificationAndVerificationMethods_Lab1.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\univ\\методи специфікації та верифікації програм\\SpecificationAndVerificationMethods_Lab1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "coverlet.collector": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.0.4, )"
+          },
+          "xunit.runner.console": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.9.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

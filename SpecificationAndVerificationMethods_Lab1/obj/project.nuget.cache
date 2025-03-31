@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8YBcMWge4I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\univ\\методи специфікації та верифікації програм\\SpecificationAndVerificationMethods_Lab1\\SpecificationAndVerificationMethods_Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\xunit.runner.console\\2.9.3\\xunit.runner.console.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
